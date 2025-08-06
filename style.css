@@ -2,16 +2,19 @@
     background-color: rgb(255, 140, 0);
     font-family: Winky Sans;
 }
+
 #menusuperior{
     background-color: blue;
     color: blanchedalmond;
 }
+
 #menuinformativo{
     background-color: black;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
 }
+
 .textoinformativo{
     display: grid;
     align-items: center;
@@ -20,7 +23,16 @@
     padding: 75px;
     margin-left: 20px;
 }
+
 .spaninformativo{
     font-size: 20px;
     font-weight: normal;
+    
+}
+
+#menuconteudo {
+    background-color: rgb(22, 232, 232);
+    display: grid;
+    grid-auto-flow: column;
+    column:auto;
 }
