@@ -70,6 +70,7 @@
 input {
     width: 400px;
     height: 60px;
+    background-color: brown;
     margin: 25px;
     border: 1px;
     border-radius: 10px;
